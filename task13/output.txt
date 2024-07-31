@@ -1,0 +1,13 @@
+Name:         flaskapp
+Namespace:    r-giyosov
+Labels:       <none>
+Annotations:  endpoints.kubernetes.io/last-change-trigger-time: 2024-07-31T15:10:24Z
+Subsets:
+  Addresses:          10.233.75.19,10.233.97.147
+  NotReadyAddresses:  <none>
+  Ports:
+    Name     Port  Protocol
+    ----     ----  --------
+    <unset>  5000  TCP
+
+Events:  <none>
